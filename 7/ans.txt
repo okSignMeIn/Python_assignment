@@ -1,0 +1,1 @@
+__init__ is the constructor which runs whenever a new instance of a class is created. __main__ is used as a main function in other programming languages. It's used when we import a file into another file and don't want to run the imported file functions as soon as it's imported.

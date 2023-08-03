@@ -1,0 +1,1 @@
+Given an integer list of numbers, return true if any value appears at least twice in the array, and return false if every element is distinct. Input: numbers = [7,8,3,4] Output: false Input: numbers = [5,2,5,3] Output: true

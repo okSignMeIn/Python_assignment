@@ -1,0 +1,1 @@
+Write a Python program that organizes files in a directory based on their file extensions. The program should create separate folders for each file extension and move the corresponding files into their respective folders.

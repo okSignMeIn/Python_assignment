@@ -1,0 +1,1 @@
+Write a Python program that reads a text file and counts the frequency of each word in the file. The program should then display the top 5 most frequently occurring words and their corresponding frequencies.

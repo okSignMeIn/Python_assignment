@@ -1,0 +1,1 @@
+Implement an inheritance hierarchy for shapes in Python. The hierarchy should include a base class called Shape and three derived classes: Rectangle, Circle, and Triangle.

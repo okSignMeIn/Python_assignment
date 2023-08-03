@@ -1,0 +1,1 @@
+Write a Python function called calculate_sum that accepts variable-length arguments (*args) and keyword arguments (**kwargs). The function should calculate the sum of all the arguments passed, where each argument can be either a number or a key-value pair with the key being a string and the value being a number. The function should return the total sum as the output.

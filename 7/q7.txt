@@ -1,0 +1,1 @@
+Explain the significance of the __init__ and __main__ special methods in Python. In which cases they are used? 
