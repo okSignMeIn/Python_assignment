@@ -26,7 +26,7 @@ def create_post(title, body, user_id):
         "userId": user_id
     }
     response = requests.post(base_url, json=data)
-    if response.status_code == 201:
+    if response.status_code == 200:
         return response.json()
     else:
         print(f"Failed")
